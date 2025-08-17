@@ -50,7 +50,7 @@ DELIMITER ;
 **Usage:**
 ``sql
 CALL GetTopStudents(70);
-```
+
 
 ### 3. 🧮 Function
 - GetGrade:
